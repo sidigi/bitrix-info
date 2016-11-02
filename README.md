@@ -1,1 +1,1 @@
-[Работа с системой](https://github.com/SidiGi/bitrix-info/wiki)
+[Работа с системой битрикс](https://github.com/SidiGi/bitrix-info/wiki)
